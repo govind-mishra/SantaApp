@@ -1,0 +1,7 @@
+.error {
+    border: 1px solid blue;
+    background-color: rgb(242, 255, 127);
+    color: red;
+    width: 100%;
+    text-align: center;
+}
