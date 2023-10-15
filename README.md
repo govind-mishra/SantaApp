@@ -1,6 +1,11 @@
 # IMPORTANT! READ before starting
 
-By default for anonymous users (non logged in), your code and app will only remain on glitch.com for 5 days.
+1. **For install all dependencies**: execute "npm i" to install all the dependencies.
+2. **To create dist folde and bundeling**: execute "npm run start:vite" to create dist folder and bundling.
+3. **To make server Live**: execute "npm start" to make your server live.
+
+
+4. By default for anonymous users (non logged in), your code and app will only remain on glitch.com for 5 days.
 In order to not lose your challenge, please create a glitch.com account and log in to glitch.com before proceeding.
 
 The following README contains instructions to guide you through the coding challenge, please read them carefully.
